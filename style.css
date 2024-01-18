@@ -15,7 +15,7 @@ body {
     background: #030429;
 }
 
-button, a, i {
+button, a, i, img {
     cursor: none;
 }
 
@@ -26,8 +26,8 @@ button, a, i {
 }
 
 .cursor-outline {
-    width: 40px;
-    height: 40px;
+    width: 60px;
+    height: 60px;
     border: 3px solid #0ef;
     box-shadow: 0 0 20px #0ef;
 }
