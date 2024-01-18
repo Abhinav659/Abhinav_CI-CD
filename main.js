@@ -1,8 +1,3 @@
-const scroll = new LocomotiveScroll({
-    el: document.querySelector('[data-scroll-container]'),
-    smooth: true
-});
-
 var typed = new Typed(".text", {
     strings: ["DevOps Engineer", "Cloud Engineer", "Full Stack Developer"],
     typeSpeed: 50,
