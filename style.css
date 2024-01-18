@@ -16,15 +16,15 @@ body {
 }
 
 .cursor-dot {
-    width: 5px;
-    height: 5px;
+    width: 10px;
+    height: 10px;
     background-color: #ffffff;
 }
 
 .cursor-outline {
     width: 30px;
     height: 30px;
-    border: 2px solid hsla(0, 0%, 100%, 0);
+    border: 2px solid #ffffff;
 }
 
 .cursor-dot, 
