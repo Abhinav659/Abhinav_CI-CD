@@ -6,12 +6,12 @@ var typed = new Typed(".text", {
     loop: true
  });
 
-const cursorDot = document.querySelector(".cursor-dot");
-const cursorOutline = document.querySelector(".cursor-outline");
+var cursorDot = document.querySelector(".cursor-dot");
+var cursorOutline = document.querySelector(".cursor-outline");
 
 window.addEventListener("mousemove", (e) => {
-    const posX = e.clientX;
-    const posY = e.clientY;
+    var posX = e.clientX;
+    var posY = e.clientY;
 
     cursorDot.style.left = `${posX}px`;
     cursorDot.style.top = `${posY}px`;
