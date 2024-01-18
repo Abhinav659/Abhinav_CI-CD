@@ -1,3 +1,7 @@
+(function () {
+        var scroll = new LocomotiveScroll();
+    })();
+
 var typed = new Typed(".text", {
     strings: ["DevOps Engineer", "Cloud Engineer", "Full Stack Developer"],
     typeSpeed: 50,
