@@ -15,6 +15,10 @@ body {
     background: #030429;
 }
 
+button, a, i {
+    cursor: none;
+}
+
 .cursor-dot {
     width: 15px;
     height: 15px;
