@@ -239,6 +239,10 @@ button, a, i, img {
     color: #0ef;
 }
 
+.sub-title span:hover {
+    color: #99FF33;
+}
+
 section {
     display: flex;
     flex-wrap: wrap;
