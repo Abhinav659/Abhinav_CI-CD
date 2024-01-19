@@ -590,7 +590,7 @@ section {
     color: rgb(9, 242, 176);
     text-decoration: underline;
     margin-left: 10px;
-    transition: 0.3s;
+    transition: 1.5s ease;
 }
 
 .para-link a:hover {
