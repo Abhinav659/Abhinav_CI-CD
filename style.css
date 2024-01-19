@@ -584,7 +584,7 @@ section {
 }
 
 .para-link a:hover {
-    box-shadow: 0 0 20px rgb(9, 242, 176);
+    color: #99FF33;
 }
 
 .main-text {
