@@ -581,6 +581,7 @@ section {
     text-decoration: underline;
     margin-left: 10px;
     transition: 0.3s;
+    box-shadow: 0 0 20px rgb(9, 242, 176);
 }
 
 .main-text {
