@@ -209,7 +209,7 @@ button, a, i, img {
 
 .about-text h2 span {
     color: #0ef;
-    transition: 1.2s ease;
+    transition: 1.5s ease;
 }
 
 .about-text h2 span:hover {
@@ -242,6 +242,7 @@ button, a, i, img {
 
 .sub-title span {
     color: #0ef;
+    transition: 1.5s ease;
 }
 
 .sub-title span:hover {
@@ -611,6 +612,11 @@ section {
 
 .main-text h2 span {
     color: #0ef;
+    transition: 1.5s ease;
+}
+
+.main-text h2 span:hover {
+    color: #99FF33;
 }
 
 .portfolio {
@@ -699,10 +705,15 @@ section {
     text-align: center;
     margin-top: 120px;
     /* margin-top: 100px; */
+    transition: 1.5s ease;
 }
 
 .contact-heading span {
     color: #0ef;
+}
+
+.contact-heading span:hover {
+    color: #99FF33;
 }
 
 .contact-text h4 {
